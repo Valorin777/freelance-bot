@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/
+*.session
+*.session-journal
+firebase-service-account.json
+*service-account*.json

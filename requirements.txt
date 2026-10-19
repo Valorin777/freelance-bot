@@ -1,0 +1,7 @@
+telethon>=1.36,<2
+aiogram>=3.7,<4
+anthropic>=0.75
+firebase-admin>=6.5
+google-cloud-firestore>=2.16
+python-dotenv>=1.0
+pydantic>=2.7
